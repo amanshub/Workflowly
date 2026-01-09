@@ -263,17 +263,4 @@ WorkflowAgent/
 - [ ] Team collaboration features
 - [ ] Mobile app
 
-## 📄 License
 
-MIT License - Built for Hackathon 2024
-
-## 👥 Team
-
-Built with ❤️ for the hackathon
-
----
-
-**Need Help?** Check the troubleshooting section or review the demo data files for examples.
-
-**Ready to Deploy?** This app can be deployed to Vercel (frontend) and Railway/Render (backend) in minutes!
-#

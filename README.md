@@ -276,5 +276,4 @@ Built with ❤️ for the hackathon
 **Need Help?** Check the troubleshooting section or review the demo data files for examples.
 
 **Ready to Deploy?** This app can be deployed to Vercel (frontend) and Railway/Render (backend) in minutes!
-#   W o r k f l o w l y  
- 
+#
